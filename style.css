@@ -1,0 +1,19 @@
+h1{
+color:blue;
+text-align: center;
+}
+ 
+h2 {background-color:lightblue;}
+p{background-color:lightblue;}
+h3{background-color:lightblue;}
+
+body{border-style: solid;}
+
+.card{
+    width: 500px;
+    background-color:lightgreen;
+    text-align: center;
+}
+
+#dish-name{
+    color: white;}
